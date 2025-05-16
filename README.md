@@ -20,7 +20,7 @@ This project focuses on detecting **dysarthria**—a speech disorder caused by w
 
 ## 📊 Dataset
 
-- **Source**: [Dysarthria Detection Dataset on Kaggle](https://www.kaggle.com/datasets/mateuszbuda/liss-dysarthria-detection)
+- **Source**: [Dysarthria Detection Dataset on Kaggle]([https://www.kaggle.com/datasets/mateuszbuda/liss-dysarthria-detection](https://www.kaggle.com/datasets/iamhungundji/dysarthria-detection))
 - **Format**: `.wav` audio files with labels indicating dysarthric or non-dysarthric speech
 - **Preprocessing**: Audio cleaned, augmented (noise injection & time-shifting), and converted to MFCC features
 
