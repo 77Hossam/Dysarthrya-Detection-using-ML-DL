@@ -10,7 +10,7 @@ This project focuses on detecting **dysarthria**—a speech disorder caused by w
 │ ├── svm_model.ipynb
 │ ├── logistic_regression.ipynb
 │ └── cnn_xgb_model.ipynb
-├── docs/ # Poster and project summary
+├── Docs/ # Poster and project summary
 │ ├── UGRF_Poster.pdf
 │ └── Project_Summary.pdf
 ├── requirements.txt
@@ -71,8 +71,8 @@ Each notebook includes:
 ## 🖼️ Project Poster & Summary
 
 Find the original submission materials here:
-- [`docs/UGRF_Poster.pdf`](./docs/UGRF_Poster.pdf)
-- [`docs/Project_Summary.pdf`](./docs/Project_Summary.pdf)
+- [`Docs/UGRF_Poster.pdf`](./Docs/UGRF_Poster.pdf)
+- [`Docs/Project_Summary.pdf`](./Docs/Project_Summary.pdf)
 
 ---
 
